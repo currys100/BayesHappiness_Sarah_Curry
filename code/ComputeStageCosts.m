@@ -1,5 +1,6 @@
 function G = ComputeStageCosts(stateSpace, stateSpaceSize, controlSpace )
 %% compute stageCost
+% modified from DPOC example
 
 % stateCost is the cost associated with being in a given state, independent
 % of how we arrived in this state.

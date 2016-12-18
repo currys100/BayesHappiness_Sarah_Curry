@@ -1,4 +1,5 @@
 function P = ComputeTransitionProbabilities(stateSpace, stateSpaceSize, controlSpace)
+% modified from DPOC example
 
 %{ 
 Notes:

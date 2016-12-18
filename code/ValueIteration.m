@@ -1,4 +1,5 @@
 function [ J_opt, u_opt_ind ] = ValueIteration( P, G )
+% modified from DPOC example
 
 iteration = 1;
 % m = number of states
